@@ -1,0 +1,98 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-image: url(60.png);
+    background-attachment: fixed; 
+}
+/*Elementy Strony*/
+ul{
+    list-style-type: none;
+}
+
+h1{
+    font-family: 'Tapestry', cursive;
+    color: blueviolet;
+}
+
+a{
+    color: deeppink;
+    font-size: 200%;
+    text-decoration: none;
+    transition: 1s all ease-out;
+}
+
+a:hover{
+    color: blue;
+    font-size: 210%;
+    
+}
+
+li{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#TV{
+    width: 100%;
+    height: 100%;
+    border: solid crimson 1px;
+}
+/*Układ Strony*/
+
+#box{
+    width: 1218px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header{
+    text-align: center;
+    width: 1212px;
+    background-color: pink;
+    font-size: 200%;
+    border: solid crimson 3px;
+}
+
+
+
+#cos{
+    text-align: center;
+    width: 200px;
+    height: 600px;
+    max-height: 600px;
+    border: solid crimson 3px;
+    background-color: pink;
+    float: left;
+}
+
+#dymy{
+    text-align: center;
+    width: 800px;
+    height: 600px;
+    max-height: 600px;
+    border: solid crimson 3px;
+    background-color: pink;
+    float: left;
+}
+
+#menu{
+    text-align: center;
+    width: 200px;
+    height: 600px;
+    max-height: 600px;
+    border: solid crimson 3px;
+    background-color: pink;
+    float: left;
+}
+
+#stopa{
+    clear:both;
+    text-align: center;
+    width: 1212px;
+    background-color: pink;
+    font-size: 200%;
+    border: solid crimson 3px;
+    color: deeppink;
+    font-size: 150%;
+}
+
