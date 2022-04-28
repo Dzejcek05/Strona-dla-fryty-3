@@ -136,14 +136,16 @@ marquee{
     top: 70%;
     width: 200px;
     z-index: 1;
-    animation: Jezdzik 1.7s linear infinite;
+    animation: Jezdzik 0.5s linear infinite;
+    opacity: 80%;
 }
 
 #PET{
     position: absolute;
     left: 70px;
     top: 10%;
-    animation: Kreciol 3s linear infinite;
+    animation: Kreciol 0.5s linear infinite;
+    opacity: 80%;
 }
 
 #Lysy{
